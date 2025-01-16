@@ -23,27 +23,58 @@ cat snifree.txt
 
 ---
 
-#CDN GoogleFrontend
+# CDN GoogleFrontend
 ![Screenshot_20250116-074414_Termux](https://github.com/user-attachments/assets/6b308e10-daf8-48f9-b08c-c66320d88e89)
 
 To scan GoogleFrontend service, use the following commands:-
+
+
 python CloudScanX.py -f rang_GoogleFrontend.txt -t 100
 
 To show the results after scanning:-
+
 cat cdnfree.txt
+
 or
+
 cat snifree.txt
 
-#CDN Fastly Varnish
+# CDN Fastly Varnish
 ![Screenshot_20250116-074414_Termux](https://github.com/user-attachments/assets/30363aca-711d-4fd1-9eec-06d1ae1e5224)
 
 
 To scan Sarnish service, use the following commands:-
+
 python CloudScanX.py -f rang_Fastly.varnish.txt -t 100
 
 To show the results after scanning:-
+
 cat cdnfree.txt
+
 or
+
+cat snifree.txt
+
+
+
+# scan domains
+
+To check domains from a file, unzip the scandomains file with the command: 
+
+unzip scandomains
+
+To scan files after decompression, use the following commands: - 
+
+python CloudScanX.py -f Put the file name -t 100
+
+and so on for each file. To display the results after
+
+scanning, use these commands:
+
+- cat cdnfree.txt 
+
+or
+
 cat snifree.txt
 
 CloudScanX - Full Installation and Usage Guide
