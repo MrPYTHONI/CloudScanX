@@ -332,7 +332,7 @@ With CloudScanX, you can easily identify cloud infrastructure services in your t
 If you encounter any issues, refer to the README.md file for additional troubleshooting tips or check the GitHub repository for updates.
 
 # 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🏴‍☠️
-![Screenshot_20231105-191851_Video Player](https://github.com/MrPYTHONI/websocket_cloudflare_cloudfront_Scan/assets/155364237/84c0bab7-1ee4-4f35-a48a-846d77a5d57d)
+![IMG_20250418_203621_181](https://github.com/user-attachments/assets/508dc034-0ff8-4bb3-a8ae-04262d549581)
 
 . ♟All my social media accounts♟ 
 
