@@ -17,9 +17,13 @@ To scan Cloudflare service, use the following commands:-
 python CloudScanX.py -f rang_cloudflaer_txt -t 100
 
 To show the results after scanning:-
+```M
 cat cdnfree.txt
+```
 or
-cat snifree.txt
+
+```cat snifree.txt
+```
 
 ---
 
@@ -29,32 +33,37 @@ cat snifree.txt
 To scan GoogleFrontend service, use the following commands:-
 
 
+```
 python CloudScanX.py -f rang_GoogleFrontend.txt -t 100
+```
 
 To show the results after scanning:-
-
+```
 cat cdnfree.txt
-
+```
 or
-
+```
 cat snifree.txt
-
+```
 # CDN Fastly Varnish
 ![Screenshot_20250116-074414_Termux](https://github.com/user-attachments/assets/30363aca-711d-4fd1-9eec-06d1ae1e5224)
 
 
 To scan Sarnish service, use the following commands:-
 
+```
 python CloudScanX.py -f rang_Fastly.varnish.txt -t 100
+```
 
 To show the results after scanning:-
-
+```
 cat cdnfree.txt
+```
 
 or
-
+```
 cat snifree.txt
-
+```
 
 
 # scan domains
@@ -64,19 +73,20 @@ To check domains from a file, unzip the scandomains file with the command:
 unzip scandomains
 
 To scan files after decompression, use the following commands: - 
-
+```
 python CloudScanX.py -f Put the file name -t 100
-
+```
 and so on for each file. To display the results after
 
 scanning, use these commands:
 
+```
 - cat cdnfree.txt 
-
+```
 or
-
+```
 cat snifree.txt
-
+```
 CloudScanX - Full Installation and Usage Guide
 
 What is CloudScanX?
@@ -94,11 +104,13 @@ On Termux (Android)
 
 First, update your Termux environment and install the necessary packages:
 
-
+```
 pkg update && pkg upgrade
 
+```
+```
 pkg install python git
-
+```
 
 2. Clone the Repository:
 3. 
@@ -106,12 +118,12 @@ pkg install python git
 Clone the CloudScanX repository from GitHub:
 
 
-
+```
 git clone https://github.com/MrPYTHONI/CloudScanX.git
-
-
+```
+```
 cd CloudScanX
-
+```
 
 
 3. Install Python Dependencies:
@@ -119,18 +131,18 @@ cd CloudScanX
 Install the required Python dependencies using pip:
 
 
-
+```
 pip install -r requirements.txt
-
+```
 
 4. Run the Tool:
 
 You can now run the tool by using the following command:
 
 
-
+```
 python CloudScanX.py
-
+```
 
 
 
@@ -142,12 +154,12 @@ On Kali Linux
 
 Ensure your Kali Linux system is up to date and install the required dependencies:
 
-
+```
 sudo apt update && sudo apt upgrade
-
-
+```
+```
 sudo apt install python3 git
-
+```
 
 
 
@@ -155,12 +167,12 @@ sudo apt install python3 git
 
 Clone the CloudScanX repository from GitHub:
 
-
+```
 git clone https://github.com/MrPYTHONI/CloudScanX.git
-
-
+```
+```
 cd CloudScanX
-
+```
 
 
 3. Install Python Dependencies:
@@ -169,18 +181,18 @@ Install the necessary Python dependencies using pip:
 
 
 
-
+```
 pip3 install -r requirements.txt
-
+```
 
 4. Run the Tool:
 
 Run the tool with:
 
 
-
+```
 python3 CloudScanX.py
-
+```
 
 
 
@@ -204,12 +216,12 @@ Download and install Git from Git-SCM.
 
 Open Command Prompt or PowerShell, then clone the repository:
 
-
+```
 git clone https://github.com/MrPYTHONI/CloudScanX.git
-
-
+```
+```
 cd CloudScanX
-
+```
 
 
 4. Install Python Dependencies:
@@ -217,9 +229,9 @@ cd CloudScanX
 Install the required dependencies using pip:
 
 
-
+```
 pip install -r requirements.txt
-
+```
 
 
 5. Run the Tool:
@@ -227,9 +239,9 @@ pip install -r requirements.txt
 To run the tool, use the following command:
 
 
-
+```
 python CloudScanX.py
-
+```
 
 
 
@@ -247,19 +259,19 @@ python CloudScanX.py <IP Range or File> -t <Threads> -p <Port> -P <Proxy> -o <Ou
 Where:
 
 
-IP Range or File: The IP range (e.g., 192.168.1.0/24) or a file containing a list of IP addresses to scan.
+```IP Range or File:``` The IP range (e.g., 192.168.1.0/24) or a file containing a list of IP addresses to scan.
 
 
--t <Threads>: The number of threads to use for the scan (default is 10).
+```-t <Threads>:``` The number of threads to use for the scan (default is 10).
 
 
--p <Port>: The port to scan (default is port 80).
+```-p <Port>:``` The port to scan (default is port 80).
 
 
--P <Proxy>: Optional. Use a proxy server in ip:port format (e.g., 192.168.1.100:8080).
+```-P <Proxy>:``` Optional. Use a proxy server in ip:port format (e.g., 192.168.1.100:8080).
 
 
--o <Output File>: Optional. Save the results to a specified output file.
+```-o <Output File>:``` Optional. Save the results to a specified output file.
 
 
 
@@ -270,18 +282,18 @@ Example Usage
 
 Example 1: Scan an IP Range with Default Settings
 
-
+```
 python CloudScanX.py 192.168.1.0/24
-
+```
 
 This will scan the entire range of IPs from 192.168.1.0 to 192.168.1.255 using the default port (80) and 10 threads.
 
 
 Example 2: Scan with Custom Settings
 
-
+```
 python CloudScanX.py 192.168.1.0/24 -t 20 -p 443 -o results.txt
-
+```
 
 This will scan the IP range 192.168.1.0/24 with 20 threads, targeting port 443, and save the results to results.txt.
 
@@ -294,16 +306,16 @@ This will scan the IP range 192.168.1.0/24 with 20 threads, targeting port 443, 
 CloudScanX is designed to detect cloud infrastructure vulnerabilities by checking for the presence of specific cloud providers like:
 
 
-Cloudflare
+````Cloudflare````
 
 
-Fastly
+````Fastly````
 
 
-Google Frontend
+````Google Frontend````
 
 
-Other Cloud Providers
+````Other Cloud Providers````
 
 
 
