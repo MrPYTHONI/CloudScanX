@@ -334,21 +334,13 @@ If you encounter any issues, refer to the README.md file for additional troubles
 # 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🏴‍☠️
 ![Screenshot_20231105-191851_Video Player](https://github.com/MrPYTHONI/websocket_cloudflare_cloudfront_Scan/assets/155364237/84c0bab7-1ee4-4f35-a48a-846d77a5d57d)
 
-. ♟Telegram♟ 
+. ♟All my social media accounts♟ 
 
-https://t.me/PYT_HON3
+````𝗦𝗘𝗖𝗥𝗘𝗧 𝗡𝗘𝗧 ⋆ 🏴‍☠️````
 
-➖➖➖➖➖➖➖➖➖➖
 
-♟You Tube♟
+https://mrpython3.carrd.co
 
-https://www.youtube.com/@Mr_PYTHON3
 
-👇👇
+````𝐌r𝐏𝐘𝐓𝐇𝐎𝐍⋆ 📝````
 
-https://youtu.be/b90hGxWwoCg?si=eWTqK1ZajOuPy3vH
-
-➖➖➖➖➖➖➖➖➖➖
-♟TIK TOK♟ 
-
-tiktok.com/@mr_python_fpi
