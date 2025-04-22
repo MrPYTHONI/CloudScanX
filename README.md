@@ -1,3 +1,28 @@
+# 𝗦𝗘𝗖𝗥𝗘𝗧 𝗡𝗘𝗧 ⋆ 🏴‍☠️
+
+![IMG_20250418_203621_181](https://github.com/user-attachments/assets/d4b32636-f76a-414d-8b66-72fd1021bd4b)
+
+
+Welcome to 𝗦𝗘𝗖𝗥𝗘𝗧 𝗡𝗘𝗧 ⋆ 🎩
+Step beyond the surface of the web into the shadows where only the bold dare to explore. This is not just a channel — it's a digital arsenal for cyber warriors, ethical hackers, and seekers of forbidden knowledge.
+We provide:
+• Advanced hacking tools & scanners
+
+• Deep web exploration resources
+
+• Exclusive scripts & exploits
+
+• Subdomain hunting, port scanners, CDN detectors
+
+• Real-time network analyzers & stealth utilities
+
+You don't follow trends — you follow trails into the unknown.
+Enter the world of 𝗦𝗘𝗖𝗥𝗘𝗧 𝗡𝗘𝗧 and unlock what’s hidden.
+Only the shadows understand…
+Let me know if you want a version with darker tone, emojis, or anything custom.
+
+
+
 # CDN Cloud front
 ![Screenshot_20240427-152508_Termux](https://github.com/MrPYTHONI/websocket_cloudflare_cloudfront_Scan/assets/155364237/c5fdc5c1-203f-415e-8ce1-125631d98ad9)
 
@@ -331,8 +356,8 @@ With CloudScanX, you can easily identify cloud infrastructure services in your t
 
 If you encounter any issues, refer to the README.md file for additional troubleshooting tips or check the GitHub repository for updates.
 
-# 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🏴‍☠️
-![IMG_20250418_203621_181](https://github.com/user-attachments/assets/508dc034-0ff8-4bb3-a8ae-04262d549581)
+
+
 
 . ♟All my social media accounts♟ 
 
